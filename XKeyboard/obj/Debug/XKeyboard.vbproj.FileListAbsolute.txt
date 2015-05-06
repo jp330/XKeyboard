@@ -1,0 +1,26 @@
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\bin\Debug\XKeyboard.exe.config
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\bin\Debug\XKeyboard.exe
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\bin\Debug\XKeyboard.pdb
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\bin\Debug\XKeyboard.xml
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\bin\Debug\J2i.Net.XInputWrapper.dll
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\bin\Debug\J2i.Net.XInputWrapper.pdb
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\obj\Debug\XKeyboard.vbprojResolveAssemblyReference.cache
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\obj\Debug\XKeyboard.Form1.resources
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\obj\Debug\XKeyboard.Resources.resources
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\obj\Debug\XKeyboard.vbproj.GenerateResource.Cache
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\obj\Debug\XKeyboard.exe
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\obj\Debug\XKeyboard.xml
+c:\users\jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\obj\Debug\XKeyboard.pdb
+C:\Users\Jay\documents\visual studio 2013\Projects\XKeyboard\XKeyboard\obj\Debug\XKeyboard.Info.resources
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\bin\Debug\XKeyboard.exe.config
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\obj\Debug\XKeyboard.exe
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\obj\Debug\XKeyboard.xml
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\obj\Debug\XKeyboard.pdb
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\obj\Debug\XKeyboard.vbprojResolveAssemblyReference.cache
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\obj\Debug\XKeyboard.Form1.resources
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\obj\Debug\XKeyboard.Info.resources
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\obj\Debug\XKeyboard.Resources.resources
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\obj\Debug\XKeyboard.vbproj.GenerateResource.Cache
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\bin\Debug\XKeyboard.exe
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\bin\Debug\XKeyboard.pdb
+C:\Users\Jay\Documents\Visual Studio 2013\Projects\XKeyboard - Copy\XKeyboard\bin\Debug\XKeyboard.xml
